@@ -1,0 +1,25 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "challenge website for htmlacademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextWebDeveloper/Challenge.git"
+  },
+  "author": "Dmitry Toshchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NextWebDeveloper/Challenge/issues"
+  },
+  "homepage": "https://github.com/NextWebDeveloper/Challenge#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-less": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
