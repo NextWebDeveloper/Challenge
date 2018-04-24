@@ -1,11 +1,16 @@
 body {
 	font-weight: 18px;
 }
-
 .promo {
 	font-weight: normal;
 }
+.adv-section dd{
+	margin-left: 0;
+}
 
+.catalog-item dd{
+	margin-left: 0;
+}
 .footer-copyright p{
 	display: inline;
 }
