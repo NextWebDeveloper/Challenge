@@ -1,6 +1,14 @@
 body {
-  margin: 20px;
-  padding: 40px;
-  color: red;
-  font-size: 70px;
+	font-weight: 18px;
+}
+
+.promo {
+	font-weight: normal;
+}
+
+.footer-copyright p{
+	display: inline;
+}
+.footer-copyright span{
+	font-weight: bold;
 }
